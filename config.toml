@@ -12,20 +12,20 @@ theme = "alpha"
   mainSections = ["about"]
 
 ### Footer Social Media Links ###
-[[params.share]]
-title = "facebook"
-icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
-link = "https://www.facebook.com/"
+# [[params.share]]
+# title = "facebook"
+# icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
+# link = "https://www.facebook.com/"
 
-[[params.share]]
-title = "twitter"
-icon = "fa-twitter"
-link = "https://twitter.com/"
+# [[params.share]]
+# title = "twitter"
+# icon = "fa-twitter"
+# link = "https://twitter.com/"
 
 [[params.share]]
 title = "instagram"
 icon = "fa-instagram"
-link = "https://instagram.com/"
+link = "https://www.instagram.com/atelierartlessons/"
 
 
 
