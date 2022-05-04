@@ -61,9 +61,9 @@ Exceptions will be dealt with on a case-by-case basis.
 
 Payment may be made via 1) Venmo, 2) card, 3) cash, or 4) check.
 
-Venmo: **@atelier-art-lessons** or click **[here](https://payments.atelierartlessons.com/category/atelier-style-lessons/).**
+Venmo: **@atelier-art-lessons** or click **[here](/payments/).**
 
-Credit Card: visit the online payment portal [here](https://atelierartlessons.com/policies/payments.atelierartlessons.com).
+Credit Card: visit the online payment portal [here](/payments/).
 
 Checks can be made out to **Jessica Parker** or to **Atelier Children’s Art Program**
 
