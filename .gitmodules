@@ -1,0 +1,3 @@
+[submodule "themes/alpha"]
+	path = themes/alpha
+	url = https://github.com/dewittn/hugo-html5up-alpha/

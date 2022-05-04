@@ -1,0 +1,56 @@
+### Banner ###
+banner:
+  enable: true
+  image: 'images/abstract-colors.jpeg'
+  title: "Atelier Art Lessons"
+  content: "Art classes for kids and adults."
+  # buttons:
+  #   - title: "Sign Up"
+  #     link: "#"
+  #     class: "primary"
+  #   - title: "Learn More"
+  #     link: "#"
+
+### Highlight ###
+highlight:
+  enable: true
+  header: "Atelier Art Lessons provides a variety of art classes for kids and adults."
+  content: "Our classes exist to provide a creative space for those wishing to build their artistic skill. Students work on projects in mediums ranging from Water Color and Oil Paints to Pastels and Colored Pencils."
+  image: "images/colored-pencils.jpeg"
+
+### Features ###
+features:
+  enable: true
+  rows:
+    - items:
+      - title: "Monthly Open Sessions"
+        icon: "fa-bolt"
+        accent: "accent2" #accent values are 1-8
+        content: "Build skills at your own pace with in-person guidance. Premium supplies are included to help you get the most of your experience."
+      - title: "Instructional Classes"
+        icon: "fa-chart-area"
+        accent: "accent3" #accent values are 1-8
+        content: "Whether you want to refine your brush strokes or pickup a new skill, our Instructional Classes offer a great way to deep-dive in a particular medium."
+    - items:
+        - title: "Seasonal Classes"
+          icon: "fa-cloud"
+          accent: "accent4" #accent values are 1-8
+          content: "We have a rotating schedule of classes during the summer and winter."
+        - title: "[Coming Soon] Digital Skills"
+          icon: "fa-lock"
+          accent: "accent5" #accent values are 1-8
+          content: "We're excited to announce that we're working on supporting students wishing to learn digital skills using professional tools such as Adobe Illustrator, Adobe Photoshop, Procreate, and more!"
+
+### Blog ###
+blog:
+  enable: false
+  # Leave header text blank to remove entire <section>
+  header: "Recent Posts"
+  buttonText: "Read More"
+  postCount: 2
+
+### Call to Action ###
+cta:
+  enable: false
+  header: "Learn More"
+  content: "We'll be in contact shortly to share details and find you a class that fits."
