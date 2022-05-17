@@ -43,12 +43,6 @@ Art Content:
 
 I am trying some new things with payments for the rest of the year, which should simplify the payment process. From Labor Day to the end of the year is now the **Fall Semester** for art classes. There is now an option to pay for the rest of the year (September-December) all at once, at a discounted rate. Or if you’d prefer, you can continue to pay the normal rate of $85/month.
 
-**Semester Rates:**
-
-Monday: $325Tuesday–Friday: $350Saturday: $300
-
-(different rates are calculated for the number of weeks in class)
-
 **Monthly Rate:** $85/month
 
 There is now a calendar for the rest of the year, including days when the studio will be closed for holidays. You can access the calendar **here**.
