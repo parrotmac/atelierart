@@ -6,7 +6,7 @@ Title: Payments
 
 [Pay On Venmo (Open on Desktop)](https://www.venmo.com/atelier-art-lessons)
 
-[Pay On Venmo (Open in Mobile App)](venmo://paycharge?txn=pay&recipients=atelier-art-lessons&amount=85&note=Atelier Lessons)
+[Pay On Venmo (Open in Mobile App)](venmo://paycharge?txn=pay&recipients=atelier-art-lessons&amount=85&note=AtelierLessons)
 
 ### Credit/Debit Card (Monthly - Automatic Renewal)
 
