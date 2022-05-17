@@ -1,25 +1,57 @@
 ---
-Title: "Classes"
-description: "Atelier Art Lessons provides classes for enhancing your artistic skills!"
+Title: "Schedule"
+description: "Current Class Schedule and Upcoming Events Calendar"
 size: "medium"
 ---
 
-{{< figure src="/images/classes.jpg" class="max-width-fit" caption="Adult student work created at Atelier!" >}}
+**STUDIO CLASSES**
 
-**All classes are held at the studio.**
 
-[7050 S Highland Dr Ste 130\
-Cottonwood Heights, UT 84121](https://goo.gl/maps/NYFGtCo9CtGF53wS7)
+### Monday
+_Teen Studio Class_
+2:30-4:00 PM
+*space available*
 
-### STUDIO CLASSES
-_Open to ages 7+_
+_Kids' Studio Class_
+4:30-6:00 PM
+*space available*
 
-In this class style, students attend in small groups. Each student works on individual projects at their own pace with help from the instructor. They works from photo reference to create a piece of their choosing, and may work with any of the classroom supplies, including watercolor, colored pencil, oil paint, acrylic, pastel, charcoal, graphite, and more. Instructor support will be given when needed. Students work on the piece for as many weeks as they need to finish, and then may start a new piece.
+### Tuesday
+_Teen Studio Class_
+3:30-5:00 PM
+*FULL*
 
-These classes run perpetually, and tuition is paid on a monthly basis. ($85/month)
+_Teen Studio Class_
+5:00-6:30 PM
+*space available*
 
-### OTHER CLASSES
+_Adult Studio Class_
+6:30-8:00 PM
+*space available*
 
-Several other class options, including a shorter-term watercolor basics class, may become available soon. Check back for updates!
+### Wednesday
+_Kids' Studio Class_
+2:00-3:30 PM
+*space available*
 
-For information on our summer camps, [click here](/summercamps/).
+_Kids' Studio Class_
+4:00-5:30 PM
+*FULL*
+
+_Teen Studio Class_
+5:30-7:00 PM
+*space available*
+
+### Thurday
+_Adult Studio Class_
+1:30-3:00 PM
+*space available*
+
+_Teen Studio Class_
+4:30-6:00 PM
+*FULL*
+
+_Adult Studio Class_
+6:00-7:30 PM
+*space available*
+

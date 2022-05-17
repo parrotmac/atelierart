@@ -40,6 +40,10 @@ link = "https://www.instagram.com/atelierartlessons/"
     name = "Classes"
     url = "/classes/" 
   [[menu.main]]
+    identifier = "Schedule"
+    name = "Schedule"
+    url = "/schedule/" 
+  [[menu.main]]
     identifier = "summer-camps"
     name = "Summer Camps"
     url = "/summercamps/"
