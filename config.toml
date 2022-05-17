@@ -35,22 +35,17 @@ link = "https://www.instagram.com/atelierartlessons/"
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 10
   [[menu.main]]
     identifier = "Classes"
     name = "Classes"
-    url = "/classes/"
-    weight = 20
+    url = "/classes/" 
   [[menu.main]]
     identifier = "summer-camps"
     name = "Summer Camps"
     url = "/summercamps/"
-    weight = 3
   [[menu.main]]
     name = "Policies"
     url = "/policies/"
-    weight = 40
   [[menu.main]]
     name = "Payments"
     url = "/payments/"
-    weight = 50
