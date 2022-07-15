@@ -27,6 +27,7 @@ features:
         icon: "fa-paint-brush"
         accent: "accent2" #accent values are 1-8
         content: "Build skills at your own pace with in-person guidance. Premium supplies are included to help you get the most of your experience."
+        link: /classes
       - title: "Instructional Classes"
         icon: "fa-chart-area"
         accent: "accent3" #accent values are 1-8

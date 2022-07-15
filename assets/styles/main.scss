@@ -2,3 +2,8 @@
     max-width: 100%;
     height: auto;
 }
+
+a.unstyled-link:link, a.unstyled-link:visited {
+    text-decoration: inherit;
+    color: inherit;
+}
