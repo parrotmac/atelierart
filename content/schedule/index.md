@@ -4,27 +4,22 @@ description: "Current Class Schedule and Upcoming Events Calendar"
 size: "medium"
 ---
 
-**SUMMER STUDIO CLASSES**
+**AUTUMN STUDIO CLASSES**
 
-Class times for the summer semester -- June, July, and August
+Class times for the fall -- September though December
 
 Please note that stated age ranges for classes are approximate and are based on the age of students currently attending each class.
 
 New class slots may be opened or current ones may be closed depending on enrollment.
 
 ### Monday
-_Teen Studio Class (for high school age students)_
-
-2:30-4:00 PM
-
-*space available*
-
 
 _Younger Teen Studio Class (for middle school age students)_
 
 4:30-6:00 PM
 
 *space available*
+
 
 
 
@@ -53,10 +48,6 @@ _Adult Studio Class (for adults, or families attending together)_
 
 
 ### Wednesday
-_Kids' Studio Class (for elementary school age students)_
-2:00-3:30 PM
-
-*space available*
 
 
 _Kids' Studio Class (for elementary school age students)_
