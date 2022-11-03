@@ -4,67 +4,67 @@ description: "Current Class Schedule and Upcoming Events Calendar"
 size: "medium"
 ---
 
-**FALL STUDIO CLASSES**
+## FALL STUDIO CLASSES
 
-Class times for the fall (September through December)
+The fall all class schedule runs from September through December.
 
-Please note that stated age ranges for classes are approximate and are based on the age of students currently attending each class. As such, the age range for specific class times may change, as new students join.
+Because Atelier students range in age from elementary school to adult, the class times listed below have recommended age ranges based on the age of students currently attending at each class. These age groups are loose, as some students attend with older siblings or neighbors, or are comfortable being around students of a different age. New students are generally welcome to join any open class time (including ones outside of their age range). If you're not sure what class would be best, I'm more than happy to talk with you and help you find a good fit!
 
 New class slots may be opened or current ones may be closed depending on enrollment.
 
 ### Monday
 
-_Younger Teen Studio Class (for middle school age students)_
-    4:30-6:00 PM
-    *FULL*
+__Younger Teen Studio Class__ _(for middle school age students)_\
+4:30-6:00 PM\
+*{{< span-class class="schedule-full" >}}FULL{{< /span-class >}}*
 
-_Teen Studio Class (for high school age students)_
-    6:00-7:30 PM
-    *space available*
+__Teen Studio Class__ _(for high school age students)_\
+6:00-7:30 PM\
+*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*
 
 
 
 ### Tuesday
 
-_Younger Teen Studio Class (for middle school age students)_
-    3:30-5:00 PM
-    *FULL*
+__Younger Teen Studio Class__ _(for middle school age students)_\
+ 3:30-5:00 PM\
+*{{< span-class class="schedule-full" >}}FULL{{< /span-class >}}*
 
-_Teen Studio Class (for high school age students)_
-    5:00-6:30 PM
-    *space available*
+__Teen Studio Class__ _(for high school age students)_\
+5:00-6:30 PM\
+ *{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*
 
-_Adult Studio Class (for adults, or families attending together)_
-    6:30-8:00 PM
-    *space available*
+__Adult Studio Class__ _(for adults, or families attending together)_\
+6:30-8:00 PM\
+*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*
 
 
 
 ### Wednesday
 
-_Kids' Studio Class (for elementary school age students)_
-    4:00-5:30 PM
-    *FULL*
+__Kids' Studio Class__ _(for elementary school age students)_\
+4:00-5:30 PM\
+*{{< span-class class="schedule-full" >}}FULL{{< /span-class >}}*
 
-_Teen Studio Class (for high school age students)_
-    5:30-7:00 PM
-    *space available*
+__Teen Studio Class__ _(for high school age students)_\
+5:30-7:00 PM\
+*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*
 
 
 
 ### Thurday
 
-_Adult Studio Class_
-    2:00-3:30 PM
-    *space available*
+__Adult Studio Class__\
+2:00-3:30 PM\
+*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*
 
 
-_Kids' and Younger Teen Studio Class (for elementary and middle school age students)_
-    4:30-6:00 PM
-    *space available*
+__Kids' and Younger Teen Studio Class__ _(for elementary and middle school age students)_\
+4:30-6:00 PM\
+*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*
 
 
-_Adult Studio Class (for adults, or families attending together)_
-    6:00-7:30 PM
-    *space available*
+__Adult Studio Class__ _(for adults, or families attending together)_\
+6:00-7:30 PM\
+*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*
 
