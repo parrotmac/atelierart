@@ -4,83 +4,67 @@ description: "Current Class Schedule and Upcoming Events Calendar"
 size: "medium"
 ---
 
-**AUTUMN STUDIO CLASSES**
+**FALL STUDIO CLASSES**
 
-Class times for the fall -- September though December
+Class times for the fall (September through December)
 
-Please note that stated age ranges for classes are approximate and are based on the age of students currently attending each class.
+Please note that stated age ranges for classes are approximate and are based on the age of students currently attending each class. As such, the age range for specific class times may change, as new students join.
 
 New class slots may be opened or current ones may be closed depending on enrollment.
 
 ### Monday
 
 _Younger Teen Studio Class (for middle school age students)_
+    4:30-6:00 PM
+    *FULL*
 
-4:30-6:00 PM
-
-*space available*
-
-
+_Teen Studio Class (for high school age students)_
+    6:00-7:30 PM
+    *space available*
 
 
 
 ### Tuesday
+
 _Younger Teen Studio Class (for middle school age students)_
-
-3:30-5:00 PM
-
-*space available*
-
+    3:30-5:00 PM
+    *FULL*
 
 _Teen Studio Class (for high school age students)_
-
-5:00-6:30 PM
-
-*space available*
-
+    5:00-6:30 PM
+    *space available*
 
 _Adult Studio Class (for adults, or families attending together)_
-6:30-8:00 PM
-
-*space available*
-
+    6:30-8:00 PM
+    *space available*
 
 
 
 ### Wednesday
 
-
 _Kids' Studio Class (for elementary school age students)_
-4:00-5:30 PM
-
-*space available*
-
+    4:00-5:30 PM
+    *FULL*
 
 _Teen Studio Class (for high school age students)_
-
-5:30-7:00 PM
-
-*space available*
+    5:30-7:00 PM
+    *space available*
 
 
 
 ### Thurday
+
 _Adult Studio Class_
-
-1:30-3:00 PM
-
-*space available*
+    2:00-3:30 PM
+    *space available*
 
 
-_Teen Studio Class (for high school age students)_
-
-4:30-6:00 PM
-
-*FULL*
+_Kids' and Younger Teen Studio Class (for elementary and middle school age students)_
+    4:30-6:00 PM
+    *space available*
 
 
 _Adult Studio Class (for adults, or families attending together)_
-6:00-7:30 PM
-
-*space available*
+    6:00-7:30 PM
+    *space available*
 
