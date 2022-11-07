@@ -48,6 +48,10 @@ link = "https://www.instagram.com/atelierartlessons/"
     name = "Summer Camps"
     url = "/summercamps/"
   [[menu.main]]
+    identifier = "christmas-workshops"
+    name = "Christmas Workshops"
+    url = "/christmasworkshops/"
+  [[menu.main]]
     name = "Policies"
     url = "/policies/"
   [[menu.main]]
