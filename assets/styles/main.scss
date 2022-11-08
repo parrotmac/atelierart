@@ -3,6 +3,16 @@
     height: auto;
 }
 
+.max-width-smallsideimage img {
+    max-width: 20rem;
+    height: auto;
+}
+
+.image-left {
+    float: left;
+    margin-right: 1rem;
+}
+
 a.unstyled-link:link, a.unstyled-link:visited {
     text-decoration: inherit;
     color: inherit;
