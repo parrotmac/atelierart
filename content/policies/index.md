@@ -2,7 +2,7 @@
 Title: Atelier Policies
 ---
 
-*Last Updated September 2021*
+*Last Updated February 2023*
 
 ## **General Policies and Rules**
 
@@ -12,7 +12,7 @@ The number one rule is to **be respectful**. Please respect others and the stud
 
 Respect for others:
 
-- Please keep language and conversation topics school-appropriate so everyone can feel welcome in the class.
+- Please keep language and conversation topics school-appropriate (at a PG level) so everyone can feel welcome in the class.
 - Speak kindly to and about others.
 - Listen to and follow instructions from the teacher.
 - Work on your own artwork, and don’t touch anyone else’s project without their permission.
@@ -31,8 +31,8 @@ Cell Phones/Technology:
 
 Food and Drinks:
 
-- Only eat food with clean hands. Do not eat anything that has touched paint or other art supplies.
 - Outside food may be brought in if it is not messy or distracting.
+- Only eat food with clean hands. Do not eat anything that has touched paint or other art supplies.
 - Clean up any messes left behind.
 
 Art Content:
@@ -41,15 +41,13 @@ Art Content:
 
 ## **Payment**
 
-I am trying some new things with payments for the rest of the year, which should simplify the payment process. From the beginning of September to the end of the year is now the **Fall Semester** for art classes. There is now an option to pay for the rest of the year (September-December) all at once, at a discounted rate. Or if you’d prefer, you can continue to pay the normal rate of $85/month.
-
 **Monthly Rate:** $85/month
 
-A calendar for the rest of the year, including days when the studio will be closed for holidays, should be available by the end of August. Thanks for your patience!
+**Payment is due the first weekday of each month.** Payments more than a week overdue will incur a $10 late fee. An additional $10 charge may be added to the fee each week that the payment is late. If payment is not received by the end of the month, your student may be dropped from the class.
 
-**Payment is due at the beginning of each month**, or if you pay all at once, at the beginning of the semester. Payments more than a week overdue will incur a $10 late fee. An additional $10 charge will be added to the fee each week that the payment is late. If payment is not received by the end of the month, your student may be dropped from the class.
+Beginning in June of 2023, all classes will switch to a semester schedule. Check back for updates and information on the new schedule in the coming months.
 
-By signing up for art class, you are reserving a seat during your class’s time slot. Unfortunately, **I cannot offer discounts or refunds for missed weeks of class**. $85 is the flat monthly rate, regardless of the number of weeks in the month when class is held. (For example, some months have 5 classes on Mondays, and with holidays, some only have 3, but the price is the same.) If you cannot make it to class, please let me know in advance, then you may attend another class time for a make-up lesson, space permitting (generally limited to one make-up class per month).
+By signing up for art class, you are reserving a seat during your class’s time slot. Unfortunately, **I cannot offer discounts or refunds for missed weeks of class**. $85 is the flat monthly rate, regardless of the number of weeks in the month when class is held. (For example, some months have 5 classes on Mondays, and with holidays, some only have 3, but the price is the same.) If you cannot make it to class, **please let me know in advance,** then you may attend another class time for a make-up lesson, space permitting (generally limited to one make-up class per month).
 
 Exceptions will be dealt with on a case-by-case basis.
 
@@ -61,7 +59,8 @@ Credit Card: visit the online payment portal [here](/payments/).
 
 Checks can be made out to **Jessica Parker** or to **Atelier Children’s Art Program**
 
-Bring cash in, and I’ll print you a receipt.
+I'm happy to provide a receipt for any form of payment.
+
 
 ## **Studio Safety**
 
@@ -69,7 +68,7 @@ At Atelier, students have the opportunity to use artist-grade (high quality) art
 
 ### **Potential Hazards**
 
-**All Paint Types (Oil, Watercolor, Acrylic, etc.)**Some of the metals and minerals used in making high-quality paint pigments can lead to health problems over years of repeated skin exposure, and can be toxic or harmful if ingested. The ingredients of other paints, while not necessarily toxic, are not safe to eat.
+**All Paint Types (Oil, Watercolor, Acrylic, etc.)**Some of the metals and minerals used in making high-quality paint pigments can lead to health problems over years of repeated skin exposure, and can be toxic or harmful if ingested. The ingredients of other paints, while not necessarily toxic, are still not safe to eat. I do my best to only provide supplies with non-toxic pigments, but each student must take care to use supplies in a safe manner.
 
 **Specific Oil Painting Concerns:**Oil paint is not water-soluble, so brushes must be cleaned with a paint thinner, such as turpentine or mineral spirits. To change the consistency or flow of oil paints, oil painting mediums (aka “glaze”) may be used. The paint thinner and many kinds of oil painting mediums are flammable and toxic if ingested. Their fumes can make you sick, causing dizziness or headaches, and they can be absorbed by your body through skin contact, causing irritation or lasting damage.
 
