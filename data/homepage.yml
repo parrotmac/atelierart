@@ -14,8 +14,8 @@ banner:
 ### Highlight ###
 highlight:
   enable: true
-  header: "Atelier Art Lessons provides a variety of art classes for kids and adults."
-  content: "This studio exists to provide a creative space for those who want to build their artistic confidence and skill. Students have access to a variety of artisitc mediums, ranging from watercolor and oil paints to pastels and colored pencils, as well as instructor support to help them create incredible projects."
+  header: "Come explore your creativity at Atelier!"
+  content: "This studio is a fun, creative space for those who want to build their artistic confidence and abilities. Students have access to a variety of artisitc mediums, ranging from watercolor and oil paints to pastels and colored pencils, as well as instructor support to help them create incredible projects."
   image: "images/colored-pencils.jpeg"
 
 ### Features ###
@@ -33,10 +33,11 @@ features:
         accent: "accent3" #accent values are 1-8
         content: "Whether you want to refine your brush strokes or pickup a new skill, our Instructional Classes offer a great way to deep-dive in a particular medium."
     - items:
-        - title: "Seasonal Classes"
+        - title: "Summer Camps"
           icon: "fa-cloud"
           accent: "accent4" #accent values are 1-8
-          content: "We have a rotating schedule of classes during the summer and winter."
+          content: "Join us for our kids' summer camps 2023!"
+          link: /summercamps
         - title: "[Coming Soon] Digital Skills"
           icon: "fa-lock"
           accent: "accent5" #accent values are 1-8
