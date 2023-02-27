@@ -41,7 +41,7 @@ features:
         - title: "[Coming Soon] Digital Skills"
           icon: "fa-lock"
           accent: "accent5" #accent values are 1-8
-          content: "We're excited to announce that we're working on supporting students wishing to learn digital skills using professional tools such as Adobe Illustrator, Adobe Photoshop, Procreate, and more!"
+          content: "We're working on supporting students wishing to learn digital skills using professional tools such as Adobe Illustrator, Adobe Photoshop, Procreate, and more!"
 
 ### Blog ###
 blog:
