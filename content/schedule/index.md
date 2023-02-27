@@ -67,6 +67,6 @@ __Adult Studio Class__\
 ### Friday
 
 __Kids' and Younger Teen Studio Class__ _(for elementary and middle school age students)_\
-4:30-6:00 PM\
+4:00-5:30 PM\
 *{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*\
 {{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSdZjy7Enkcq41aF_QWQOfuQ2aSBD2yTUtCvFlPC2utZuTzQqw/viewform?usp=pp_url&entry.1336416298=Child&entry.1991564521=Friday+4:00-5:30+(kids'+and+younger+teen+studio+class)" >}}Enroll Now{{< /cta-button >}}
