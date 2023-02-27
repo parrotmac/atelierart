@@ -13,7 +13,7 @@ Once we receive your form submission, we'll email you to confirm your enrollment
 {{< figure src="/images/womeninart.png" class="max-width-fit" alt="banner describing kids' craft workshop" >}}
 ## Women in Art
 
-Lety your children be inspired by female artists! We will learn about five famous women artists throughout history, including Frida Kahlo and Georgia O'Keefe, and try out their techniques by creating our own art projects. After discussing and analyzing notable paintings, children will create a fun art piece in the style of the artist they learned about, using materials such as acrylic paint, oil pastels, and watercolor.\
+Let your children be inspired by female artists! We will learn about five famous women artists throughout history, including Frida Kahlo and Georgia O'Keefe, and try out their techniques by creating our own art projects. After discussing and analyzing notable paintings, children will create a fun art piece in the style of the artist they learned about, using materials such as acrylic paint, oil pastels, and watercolor.\
 &nbsp; \
 __June 12-16 (Monday-Friday)__\
 __10:00 AM - 12:00 PM daily__\

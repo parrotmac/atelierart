@@ -4,9 +4,9 @@ description: "Current Class Schedule and Upcoming Events Calendar"
 size: "medium"
 ---
 
-## FALL STUDIO CLASSES
+## SPRING STUDIO CLASSES
 
-The fall class schedule runs from September through December.
+The spring class schedule runs from January through May.
 
 Because Atelier students range in age from elementary school to adult, the class times listed below have recommended age ranges based on the age of students currently attending at each class. These age groups are loose, as some students attend with older siblings or neighbors, or are comfortable being around students of a different age. If you're not sure what class would be best, I'm more than happy to talk with you and help you find a good fit!
 
@@ -14,11 +14,12 @@ New class slots may be opened or current ones may be closed depending on enrollm
 
 ### Monday
 
-__Younger Teen Studio Class__ _(for middle school age students)_\
+__Kids' and Younger Teen Studio Class__ _(for elementary and middle school age students)_\
 4:30-6:00 PM\
-*{{< span-class class="schedule-full" >}}FULL{{< /span-class >}}*
+*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*\
+{{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSdZjy7Enkcq41aF_QWQOfuQ2aSBD2yTUtCvFlPC2utZuTzQqw/viewform?usp=pp_url&entry.1991564521=Monday+4:30-6:00+(kids'+and+younger+teen+studio+class)" >}}Enroll Now{{< /cta-button >}}
 
-__Teen Studio Class__ _(for high school age students)_\
+__Teen Studio Class__ _(for middle and high school age students)_\
 6:00-7:30 PM\
 *{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*\
 {{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSdZjy7Enkcq41aF_QWQOfuQ2aSBD2yTUtCvFlPC2utZuTzQqw/viewform?usp=pp_url&entry.1991564521=Monday+6:00-7:30+(teen+studio+class)" >}}Enroll Now{{< /cta-button >}}
@@ -63,14 +64,9 @@ __Adult Studio Class__\
 {{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSdZjy7Enkcq41aF_QWQOfuQ2aSBD2yTUtCvFlPC2utZuTzQqw/viewform?usp=pp_url&entry.1336416298=Adult+(18%2B)&entry.1991564521=Thursday+2:00-3:30+(adult+studio+class)" >}}Enroll Now{{< /cta-button >}}
 
 
+### Friday
+
 __Kids' and Younger Teen Studio Class__ _(for elementary and middle school age students)_\
 4:30-6:00 PM\
 *{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*\
-{{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSdZjy7Enkcq41aF_QWQOfuQ2aSBD2yTUtCvFlPC2utZuTzQqw/viewform?usp=pp_url&entry.1336416298=Child&entry.1991564521=Thursday+4:30-6:00+(kids'+and+younger+teen+studio+class)" >}}Enroll Now{{< /cta-button >}}
-
-
-__Adult Studio Class__ _(for adults, or families attending together)_\
-6:00-7:30 PM\
-*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*\
-{{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSdZjy7Enkcq41aF_QWQOfuQ2aSBD2yTUtCvFlPC2utZuTzQqw/viewform?usp=pp_url&entry.1336416298=Adult+(18%2B)&entry.1991564521=Thursday+6:00-7:30+(adult+studio+class)" >}}Enroll Now{{< /cta-button >}}
-
+{{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSdZjy7Enkcq41aF_QWQOfuQ2aSBD2yTUtCvFlPC2utZuTzQqw/viewform?usp=pp_url&entry.1336416298=Child&entry.1991564521=Friday+4:00-5:30+(kids'+and+younger+teen+studio+class)" >}}Enroll Now{{< /cta-button >}}
