@@ -15,17 +15,6 @@ Refunds can be issued up until two weeks before a camp's start date. (Send an em
 
 
 ---
-### Venmo
-
-If paying by Venmo, please include (1) the name of the camp and (2) the participating child's first name in the payment description.
-
-[Pay On Venmo (Open on Desktop)](https://www.venmo.com/atelier-art-lessons)
-
-[Pay On Venmo (Open in Mobile App)](venmo://paycharge?txn=pay&recipients=atelier-art-lessons&amount=175&note=AtelierLessonsCamp)
-
-If you have trouble with the links, you can also search for @atelier-art-lessons on Venmo. (Double check to be sure you're looking for a 'Business' in the search menu, otherwise the account won't show up.)
-
----
 ### Credit/Debit Payment
 
 #### Women in Art Camp
@@ -39,5 +28,16 @@ If you have trouble with the links, you can also search for @atelier-art-lessons
 #### Animal Art Camp
 
 {{< cta-button href="https://buy.stripe.com/fZedTTcne95YeYM9AF" >}}Enroll Now{{< /cta-button >}}
+
+---
+### Venmo
+
+If paying by Venmo, please include (1) the name of the camp and (2) the participating child's first name in the payment description.
+
+[Pay On Venmo (Open on Desktop)](https://www.venmo.com/atelier-art-lessons)
+
+[Pay On Venmo (Open in Mobile App)](venmo://paycharge?txn=pay&recipients=atelier-art-lessons&amount=175&note=AtelierLessonsCamp)
+
+If you have trouble with the links, you can also search for @atelier-art-lessons on Venmo. (Double check to be sure you're looking for a 'Business' in the search menu, otherwise the account won't show up.)
 
 ---
