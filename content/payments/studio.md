@@ -1,5 +1,6 @@
 ---
-Title: Payments
+Title: Studio / Atelier Sessions
+Description: Year round classes
 ---
 
 ### Venmo
