@@ -4,9 +4,7 @@ description: "Current Class Schedule and Upcoming Events Calendar"
 size: "medium"
 ---
 
-## SPRING STUDIO CLASSES
-
-The spring class schedule runs from January through May.
+## SUMMER STUDIO CLASSES
 
 Because Atelier students range in age from elementary school to adult, the class times listed below have recommended age ranges based on the age of students currently attending at each class. These age groups are loose, as some students attend with older siblings or neighbors, or are comfortable being around students of a different age. If you're not sure what class would be best, I'm more than happy to talk with you and help you find a good fit!
 
@@ -16,8 +14,8 @@ New class slots may be opened or current ones may be closed depending on enrollm
 
 __Kids' and Younger Teen Studio Class__ _(for elementary and middle school age students)_\
 4:30-6:00 PM\
-*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*\
-{{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSdZjy7Enkcq41aF_QWQOfuQ2aSBD2yTUtCvFlPC2utZuTzQqw/viewform?usp=pp_url&entry.1991564521=Monday+4:30-6:00+(kids'+and+younger+teen+studio+class)" >}}Enroll Now{{< /cta-button >}}
+*{{< span-class class="schedule-full" >}}FULL{{< /span-class >}}*
+
 
 __Teen Studio Class__ _(for middle and high school age students)_\
 6:00-7:30 PM\
@@ -30,7 +28,8 @@ __Teen Studio Class__ _(for middle and high school age students)_\
 
 __Younger Teen Studio Class__ _(for middle school age students)_\
  3:30-5:00 PM\
-*{{< span-class class="schedule-full" >}}FULL{{< /span-class >}}*
+*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*\
+{{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSdZjy7Enkcq41aF_QWQOfuQ2aSBD2yTUtCvFlPC2utZuTzQqw/viewform?usp=pp_url&entry.1336416298=Child&entry.1991564521=Tuesday+3:30-5:00+(younger+teen+studio+class)" >}}Enroll Now{{< /cta-button >}}
 
 __Teen Studio Class__ _(for high school age students)_\
 5:00-6:30 PM\

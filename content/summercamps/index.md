@@ -31,7 +31,9 @@ __$175__ _(all materials included)_\
 _for ages 6-12_
 
 {{< figure src="/images/artwithanimals.png" class="max-width-fit" alt="banner describing kids' craft workshop" >}}
-## Animal Art
+## Animal Art (Full)
+
+__THIS CAMP IS FULL! We will let you know if additional spaces open up in the future.__
 
 In this camp, children will focus on drawing and painting animals. We will learn techniques to draw animals from around the world in a variety of art mediums, draw favorite animals or pets, and draw animals from life. \
 &nbsp; \
