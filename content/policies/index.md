@@ -45,8 +45,6 @@ Art Content:
 
 **Payment is due the first weekday of each month.** Payments more than a week overdue will incur a $10 late fee. An additional $10 charge may be added to the fee each week that the payment is late. If payment is not received by the end of the month, your student may be dropped from the class.
 
-Beginning in June of 2023, all classes will switch to a semester schedule. Check back for updates and information on the new schedule in the coming months.
-
 By signing up for art class, you are reserving a seat during your class’s time slot. Unfortunately, **I cannot offer discounts or refunds for missed weeks of class**. $85 is the flat monthly rate, regardless of the number of weeks in the month when class is held. (For example, some months have 5 classes on Mondays, and with holidays, some only have 3, but the price is the same.) If you cannot make it to class, **please let me know in advance,** then you may attend another class time for a make-up lesson, space permitting (generally limited to one make-up class per month).
 
 Exceptions will be dealt with on a case-by-case basis.
