@@ -2,11 +2,10 @@
 Title: "Summer Camps 2023"
 ---
 
+REGISTRATION FOR ALL SUMMER CAMPS IS CURRENTLY CLOSED. If you would like to join the waitlist for the Animal Art camp, email jessica@atelierartlessons.com
+
 Atelier Summer Camps are week-long art experiences for children ages 6 to 12. Each summer camp week has a theme, and each class session will include instruction on an art topic, a snack, and time to work on a related project. Campers will complete 4-6 art projects in each camp, and gain valuable skills they can use in their own art at home! Classes are Monday through Friday from 10:00 AM to 12:00 PM. The camps are taught by Sarah Turner, an elementary school teacher, and Jessica Parker, owner of Atelier.
 
-Read about the classes on this page, then fill out the sign-up sheet at the link below!
-
-{{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSfSljnMkUuUKx6uNpYx5-w5b2_61LdBEwUCQA6RNBI8sVPQTA/viewform?usp=sf_link" >}}Sign Up{{< /cta-button >}}
 
 Once we receive your form submission, we'll email you to confirm your enrollment and send you payment information!
 
@@ -22,6 +21,8 @@ _for ages 6-12_
 
 {{< figure src="/images/elementsofart.png" class="max-width-fit" alt="banner describing kids' craft workshop" >}}
 ## Elements of Art
+
+__REGISTRATION FOR THIS CAMP IS NOW CLOSED__
 
 This camp is perfect for children who want to learn how to better their artistic abilities. We will be exploring elements of art such as line, color, value, texture, and perspective. Each class session will include a lesson on one of the elements, analyzing notable artwork that exemplifies that element, art drills to improve skill, and time to complete an art piece.\
 &nbsp; \
