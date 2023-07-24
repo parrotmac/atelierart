@@ -10,6 +10,8 @@ Because Atelier students range in age from elementary school to adult, the class
 
 New class slots may be opened or current ones may be closed depending on enrollment.
 
+A new schedule will soon be available for Fall Class sign-ups!
+
 ### Monday
 
 __Kids' and Younger Teen Studio Class__ _(for elementary and middle school age students)_\
@@ -67,5 +69,4 @@ __Adult Studio Class__\
 
 __Kids' and Younger Teen Studio Class__ _(for elementary and middle school age students)_\
 4:00-5:30 PM\
-*{{< span-class class="schedule-available" >}}SPACE AVAILABLE{{< /span-class >}}*\
-{{< cta-button href="https://docs.google.com/forms/d/e/1FAIpQLSdZjy7Enkcq41aF_QWQOfuQ2aSBD2yTUtCvFlPC2utZuTzQqw/viewform?usp=pp_url&entry.1336416298=Child&entry.1991564521=Friday+4:00-5:30+(kids'+and+younger+teen+studio+class)" >}}Enroll Now{{< /cta-button >}}
+*{{< span-class class="schedule-full" >}}FULL{{< /span-class >}}*
